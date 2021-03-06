@@ -8,3 +8,9 @@ An app that lets user search healthcare services and book appointment at their d
   
 
 </p>
+<p float="left">
+ 
+  <img src="/screenshots/mostSearchedTena.png" width="400" height=400 />
+  
+
+</p>
