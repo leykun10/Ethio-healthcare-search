@@ -15,7 +15,7 @@ An app that lets user search healthcare services and book appointment at their d
 
 </p>
 <p float="left">
-  <img src="/screenshots/prvitetena.PNG" width="600" height=400 />
+  <img src="/screenshots/prviteTena.PNG" width="600" height=400 />
 
   
 
@@ -27,7 +27,6 @@ An app that lets user search healthcare services and book appointment at their d
 
 </p><p float="left">
   <img src="/screenshots/about.PNG" width="600" height=400 />
-
-  
-
 </p>
+
+
